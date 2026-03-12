@@ -1,0 +1,20 @@
+{
+  "running": false,
+  "lastRunAt": "2026-03-11T23:38:34.105Z",
+  "lastStatus": "ok",
+  "lastMessage": "Update finalizado com sucesso.",
+  "lastFromVersion": "v7.5.0.3",
+  "lastToVersion": "v7.5.0.4",
+  "lastBy": "559183721035@s.whatsapp.net",
+  "pid": null,
+  "updatedAt": "2026-03-11T23:38:34.105Z",
+  "changedFiles": [
+    "[removed] .npm/_logs/2026-03-11T23_02_39_109Z-debug-0.log",
+    "[added] .npm/_logs/2026-03-11T23_38_20_015Z-debug-0.log",
+    "[modified] DADOS DO YUTA/INFO_YUTA/media/INFO_YUTA.json"
+  ],
+  "changedFilesCount": 3,
+  "updateCommand": "npm run update:source",
+  "updateStdout": "\n> yutabot-md@1.0.0 update:source\n> node -e \"console.log('SOURCE-ONLY UPDATE: node_modules blindado')\"\n\nSOURCE-ONLY UPDATE: node_modules blindado\n",
+  "updateStderr": ""
+}

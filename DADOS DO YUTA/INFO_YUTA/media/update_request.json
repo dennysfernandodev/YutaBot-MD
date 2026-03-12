@@ -1,0 +1,13 @@
+{
+  "pending": false,
+  "requestedAt": "2026-03-11T23:38:09.772Z",
+  "requestedBy": "559183721035@s.whatsapp.net",
+  "targetVersion": "v7.5.0.4",
+  "fromVersion": "v7.5.0.3",
+  "appliedAt": "2026-03-11T23:38:34.106Z",
+  "lastStatus": "ok",
+  "lastMessage": "Update aplicado no boot.",
+  "lastFromVersion": "v7.5.0.3",
+  "lastToVersion": "v7.5.0.4",
+  "changedFilesCount": 3
+}

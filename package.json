@@ -4,6 +4,7 @@
   "main": "connect.js",
   "scripts": {
     "start": "sh start.sh sim",
+    "update:github": "node updater.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
